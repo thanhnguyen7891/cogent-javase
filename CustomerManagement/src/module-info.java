@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thanhnguyen
+ *
+ */
+module CustomerManagement {
+}
