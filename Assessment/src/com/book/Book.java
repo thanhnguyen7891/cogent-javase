@@ -70,6 +70,12 @@ public class Book {
 		this.price = price;
 	}
 	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "bookID = " + bookId + ", title = " + title + ", author = " + author + ", category = " + category
+				+ ", price = " + price;
+	}
 	
 	
 
